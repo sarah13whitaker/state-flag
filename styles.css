@@ -1,0 +1,9 @@
+#header {
+  color: blue;  
+  text-align: center;
+}
+
+#flag {
+    display: flex;
+    margin: auto;
+}
